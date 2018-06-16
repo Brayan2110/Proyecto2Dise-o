@@ -1,0 +1,29 @@
+{
+    "tiempoEntrePiso": 3,
+    "tiempoPuertaAbiertaBotonDetenerse": 10,
+    "probBotonEmergencia": 0.05,
+    "cantidadPersonas": 5,
+    "tiempoPuertaAbierta": 2,
+    "Elevadores": [
+        0.2,
+        0.4,
+        0.1,
+        0.3
+    ],
+    "EscogerPisoComoDestino": [
+        0.2,
+        0.05,
+        0.2,
+        0.2,
+        0.15,
+        0.2
+    ],
+    "SolicitarElevadorEnUnPiso": [
+        0.2,
+        0.05,
+        0.2,
+        0.2,
+        0.15,
+        0.2
+    ]
+}

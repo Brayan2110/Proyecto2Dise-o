@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parametros>
+	<cantidadDePisos cantidad="6"></cantidadDePisos>
+	<cantidadDeElevadores cantidad = "4"></cantidadDeElevadores>
+	<probBotonEmergencia prob = "0.05"></probBotonEmergencia>
+	<tiempoEntrePiso time = "3"></tiempoEntrePiso>
+	<tiempoPuertaAbierta time = "2"></tiempoPuertaAbierta>
+	<tiempoPuertaAbiertaBotonDetenerse time = "10"></tiempoPuertaAbiertaBotonDetenerse>
+	<cantidadPersonas cantidad = "5"></cantidadPersonas>
+	<Elevadores>
+		<Elevador>
+			<identificador id = "1"> </identificador>
+			<botonDetenerse prob = "0.2"></botonDetenerse>
+		</Elevador>
+		<Elevador>
+			<identificador id = "2"> </identificador>
+			<botonDetenerse prob = "0.4"></botonDetenerse>
+		</Elevador>
+		<Elevador>
+			<identificador id = "3"> </identificador>
+			<botonDetenerse prob = "0.1"></botonDetenerse>
+		</Elevador>
+		<Elevador>
+			<identificador id = "4"> </identificador>
+			<botonDetenerse prob = "0.3"></botonDetenerse>
+		</Elevador>
+	</Elevadores>
+
+	<Pisos>
+		<Piso>
+			<identificador id = "1"></identificador>
+			<probabilidadDestino prob="0.2"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.2"></probabilidadSolicitud>
+		</Piso>
+		<Piso>
+			<identificador id = "2"></identificador>
+			<probabilidadDestino prob="0.05"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.05"></probabilidadSolicitud>
+		</Piso>
+		<Piso>
+			<identificador id = "3"></identificador>
+			<probabilidadDestino prob="0.2"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.2"></probabilidadSolicitud>
+		</Piso>
+		<Piso>
+			<identificador id = "4"></identificador>
+			<probabilidadDestino prob="0.1"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.1"></probabilidadSolicitud>
+		</Piso>
+		<Piso>
+			<identificador id = "5"></identificador>
+			<probabilidadDestino prob="0.15"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.15"></probabilidadSolicitud>
+		</Piso>
+		<Piso>
+			<identificador id = "6"></identificador>
+			<probabilidadDestino prob="0.2"></probabilidadDestino>
+			<probabilidadSolicitud prob="0.2"></probabilidadSolicitud>
+		</Piso>
+	</Pisos>
+</parametros>

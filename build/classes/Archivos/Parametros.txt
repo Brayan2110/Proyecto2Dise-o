@@ -1,0 +1,15 @@
+probBotonEmergencia 0.05
+tiempoEntrePiso 3
+tiempoPuertaAbierta 2
+tiempoPuertaAbiertaBotonDetenerse 2
+cantidadPersonas 5
+Elevador 1 0.2
+Elevador 2 0.4
+Elevador 3 0.1
+Elevador 4 0.3
+Piso 1 0.2 0.2
+Piso 2 0.05 0.05
+Piso 3 0.2 0.2
+Piso 4 0.2 0.2
+Piso 5 0.15 0.15
+Piso 6 0.2 0.2
